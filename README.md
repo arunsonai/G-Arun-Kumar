@@ -2,7 +2,7 @@
 - 👀 I’m interested in deep neural nets, NLP, RAG
 - 🌱 I’m currently learning the state of the art tech viz. machine learning and deep learning
 - 💞️ I’m looking to collaborate on every projects that are related to artificial intelligence
-- 📫 reach me @G-Arun-Kumar
+- 📫 reach me @ G-Arun-Kumar
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: N/A
 
